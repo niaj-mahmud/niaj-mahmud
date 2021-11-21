@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NIAJ MAHMUD</h1>
+<h1 align="center">NIAJ MAHMUD</h1>
 <h3 align="center">A developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niaj-mahmud&label=Profile%20views&color=0e75b6&style=flat" alt="niaj-mahmud" /> </p>
