@@ -1,5 +1,11 @@
 <h1 align="center">NIAJ MAHMUD</h1>
-<h3 align="center">A developer from Bangladesh</h3>
+<h3 align="center">I'm a Flutter mobile app developer with over 2 years of experience. I specialize in crafting cross-platform solutions for Android and iOS using Flutter and Dart. With a passion for creating intuitive user experiences and a knack for problem-solving, I've contributed to the successful development and deployment of several mobile applications across various industries. Let's build something amazing together!</h3>
+
+- 🔭 I’m currently working on **I’m currently working on Supply Chain Management Software**
+
+- 🌱 I’m currently learning **Advance topics of flutter and Swift**
+
+- 📄 Know about my experiences [linkedin.com/in/niajnm/](linkedin.com/in/niajnm/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niajnm&label=Profile%20views&color=0e75b6&style=flat" alt="niajnm" /> </p>
 
