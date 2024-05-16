@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advance topics of flutter and Swift**
 
-- 📄 Know about my experiences [linkedin.com/in/niajnm/](linkedin.com/in/niajnm/)
+- 📄 Know about my experiences <a href="https://linkedin.com/in/niajnm" target="blank">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niajnm&label=Profile%20views&color=0e75b6&style=flat" alt="niajnm" /> </p>
 
